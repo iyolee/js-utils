@@ -1,0 +1,7 @@
+spec/*
+lib/jasmine_examples/*
+dist/*
+gulpfile.js
+node_modules/*
+package.json
+package-lock.json
